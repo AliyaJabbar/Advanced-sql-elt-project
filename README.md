@@ -6,7 +6,7 @@
 
 ## 📌 **Project Overview**
 
-**SalesPulse360** is an end-to-end SQL analytics project built on top of my **Data Warehouse (Bronze → Silver → Gold)** architecture.
+**SalesPulse360** is an end-to-end SQL analytics project built on top of my **![Data Warehouse (Bronze → Silver → Gold)](https://github.com/AliyaJabbar/SQL-Data-Warehouse-project)** architecture.
 This repository focuses on the **Analytics Layer**, where I use SQL to generate customer insights, product performance metrics, segmentation analysis, and dashboard-ready datasets.
 
 The project integrates cleaned datasets from **CRM**, **ERP**, and **Product Systems**, and provides business-focused insights through **Power BI dashboards** for Customer and Product analytics.
