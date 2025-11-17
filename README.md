@@ -118,12 +118,12 @@ The project integrates cleaned datasets from **CRM**, **ERP**, and **Product Sys
 ### **🧍 Customer Insight Dashboard**
 
 
-![Customer Dashboard]([images/customer_dashboard.png](https://github.com/AliyaJabbar/Advanced-sql-elt-project/blob/main/salespulse%20customer.PNG))
+![Customer Dashboard](https://github.com/AliyaJabbar/Advanced-sql-elt-project/blob/main/salespulse%20customer.PNG))
 
 ### **📦 Product Insight Dashboard**
 
 
-![Product Dashboard]([images/product_dashboard.png](https://github.com/AliyaJabbar/Advanced-sql-elt-project/blob/main/salespulse%20product.PNG))
+![Product Dashboard](https://github.com/AliyaJabbar/Advanced-sql-elt-project/blob/main/salespulse%20product.PNG))
 
 ---
 
